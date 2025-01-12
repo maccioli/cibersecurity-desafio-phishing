@@ -19,3 +19,9 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+### Erro apresentado
+- Embora todos os passos tenham sido seguidos corretamente, não retornou as informações esperadas.
+- A atualização dos pacotes não solucionou o problema apt update && apt full-upgrade 
+- A tentativa de alteração no .html /root/.set/ , não trouxe o resultado.
+- Não encontrado solução em fóruns.
